@@ -4,6 +4,18 @@ Coding seminar at CMI@IIT using Python 3.9 and above.
 
 All materials are to be uploaded here, please be patient 🙏
 
+## Aim of this seminar
+
+This seminar aims to help you solve problems **by yourself**.
+For example, when you want to run Fourier transformation for your data, you google `Fourier transformation Python`. What you find will be [`scipy.fft`](https://docs.scipy.org/doc/scipy/tutorial/fft.html) page and you
+read the code. Can you figure out
+- where to type this code;
+- how to insert your data instead of example;
+- how to handle the data afterward?
+
+This seminar covers up these kind of problems, so that when you find the solution you can directly jump to implement it to your code.
+
+This seminar doesn't cover ABC of coding. For those totally new to coding, I recommend to start getting your hands on some basic coding lessons online.
 
 ## Agenda
 
