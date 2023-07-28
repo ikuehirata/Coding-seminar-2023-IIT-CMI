@@ -54,7 +54,3 @@ Online streaming is available as well via Teams, please check my email.
     conda update --all
     conda install matplotlib pandas seaborn
     ```
-
-
-
-
